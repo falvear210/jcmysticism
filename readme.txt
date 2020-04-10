@@ -1,4 +1,5 @@
-=== Aeon Blog ===
+=== JCMysticism ===
+Fork from aeontheme
 Contributors: aeontheme
 Requires at least: 5.0
 Tested up to: 5.2.3
